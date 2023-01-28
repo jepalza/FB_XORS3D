@@ -19,3 +19,10 @@ Dejo unos pocos ejemplos , suficiente para comprobar su funcionamiento.
 
 Se necesitan tanto la DLL "xors3d.dll" como la carpeta "media" originales del repositorio:
 https://github.com/Guevara-chan/Xors3D-for-PB
+
+
+Foro donde se inició la conversación:
+https://www.freebasic.net/forum/viewtopic.php?t=28453&hilit=xors3d
+
+![Imagen imagen1](https://github.com/jepalza/FB_XORS3D/blob/main/xors3d_blocks.jpg)
+![Imagen imagen2](https://github.com/jepalza/FB_XORS3D/blob/main/xors3d_forest.jpg)
